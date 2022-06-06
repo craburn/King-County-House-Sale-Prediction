@@ -1,7 +1,7 @@
 # King-County-House-Sale-Prediction
 This is the final assignment for IBM's Data Analysis with Python course
 
-Here are some of the steps that I worked on during this project:
+Here are some of the steps that I learned during this project:
 
 - Creating a notebook 
 - Identifying the problem and data sources 
